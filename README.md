@@ -11,7 +11,7 @@
 Com Foco em estudos e projetos em **C#**, **.NET**, **HTML** e **CSS**, criando soluções eficientes e bem estruturadas para web e desktop.
 Dei auxilio a projetos dentro da Empresa Com o [Projeto-Chamados-em-C#] e [Projeto-Pedido-de-Compras-em-C#].*
 
- <a href="https://www.linkedin.com/in/gustavohenr1q/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/gustahenr1q/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ---
 ### 📌 - *Projetos* -
