@@ -17,6 +17,7 @@ Dei auxilio a projetos dentro da Empresa Com o [Projeto-Chamados-em-C#](https://
 ### 📌 - *Projetos* -
 
 - 🍔 **[Responsive App Fast Food .NET MAUI](https://github.com/gustavohenr1q/Projeto-FastFood-.NET-MAUI-App)** - Aplicativo que Simula um Pedido de Fast Food
+- 🧾 [Automação PDF iTextSharp .NET](https://github.com/gustavohenr1q/Projeto-PDF-csharp-Automatizando-Processo-na-Empresa) — Gerador de Relatórios Corporativos (Waldesa)
 
 ---
 
