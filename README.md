@@ -6,6 +6,8 @@
 </div>
           
 ### 💭 *Sobre mim*
+**`Desenvolvedor Web`**
+
 
   *Atualmente atuo na Empresa [Waldesa](https://waldesa.com.br) como Auxiliar de Suporte Técnico de Informática,  
 Com Foco em estudos e projetos em **C#**, **.NET**, **HTML** e **CSS**, criando soluções eficientes e bem estruturadas para web e desktop.
