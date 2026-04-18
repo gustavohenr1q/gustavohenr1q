@@ -1,11 +1,11 @@
 <div style="display: inline-block">
 
-# 💬*Olá, me chamo Gustavo Henrique* <img align="center" alt="Android" height="400" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
+# 💬*Olá, me chamo Gustavo Henrique*
           
 
 </div>
           
-### 💭 *Sobre mim*
+###  *Sobre mim*
 **`Desenvolvedor Web`**
 
 
@@ -27,10 +27,7 @@ Dei auxilio a projetos dentro da Empresa Com o [ Projeto-PDF-csharp-Automatizand
   
 <div align="center">
 
- <img align="center" alt="DOTNET" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg">
- <img align="center" alt="CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="HTML" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="Csharp" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+ <img src="https://skillicons.dev/icons?i=html,css,cs,dotnet" />
 
  </div>
  
@@ -39,11 +36,17 @@ Dei auxilio a projetos dentro da Empresa Com o [ Projeto-PDF-csharp-Automatizand
   ### 🛠 - *Ferramentas* -
 
    <div align="center">
-   
-   <img align="center" alt="VSCODE" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
-   <img align="center" alt="VISUALSTUDIO" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg">
-   
+
+
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio" />
+  
    </div>
 
 ---
 
+<picture>
+
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
+</picture>
+
+---
