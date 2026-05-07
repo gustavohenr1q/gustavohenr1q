@@ -16,16 +16,16 @@
 </div>
 
           
-**`Desenvolvedor Web`**
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ`Desenvolvedor Web`
 
 
-  *Atualmente colaboro na Empresa [Waldesa](https://waldesa.com.br) como Auxiliar de Suporte Técnico de Informática,  
-Com Foco em estudos e projetos em **C#**, **.NET**, **HTML** e **CSS**, criando soluções eficientes e bem estruturadas para web e desktop.*
-Dei auxilio a projetos dentro da Empresa Com o [ Projeto-PDF-csharp-Automatizando-Processo-na-Empresa](https://github.com/gustavohenr1q/Projeto-PDF-csharp-Automatizando-Processo-na-Empresa).
+  *ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤAtualmente colaboro na Empresa [Waldesa](https://waldesa.com.br) como Auxiliar de Suporte Técnico de Informática,  
+ㅤㅤㅤㅤCom Foco em estudos e projetos em **C#**, **.NET**, **HTML** e **CSS**, criando soluções eficientes e bem estruturadas para web e desktop.*
+Dei ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤauxilio a projetos dentro da Empresa Com o [ Projeto-PDF-csharp-Automatizando-Processo-na-Empresa](https://github.com/gustavohenr1q/Projeto-PDF-csharp-Automatizando-Processo-na-Empresa).
 
-*Também estou fazendo um curso livre de um ano no [Senac](https://www.sp.senac.br/senac-tatuape-cel-luis-americano/cursos-livres/curso-de-assistente-de-desenvolvimento-de-aplicativos-computacionais) de (Assistente de Desenvolvimento de Aplicativos Computacionais).*
+*ㅤㅤㅤㅤㅤㅤTambém estou fazendo um curso livre de um ano no [Senac](https://www.sp.senac.br/senac-tatuape-cel-luis-americano/cursos-livres/curso-de-assistente-de-desenvolvimento-de-aplicativos-computacionais) de (Assistente de Desenvolvimento de Aplicativos Computacionais).*
 
- <a href="https://www.linkedin.com/in/gustahenr1q/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href="https://www.linkedin.com/in/gustahenr1q/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ---
 <div align="center">
@@ -33,8 +33,8 @@ Dei auxilio a projetos dentro da Empresa Com o [ Projeto-PDF-csharp-Automatizand
 </div>
 
 
-- 🍔 **[Responsive App Fast Food .NET MAUI](https://github.com/gustavohenr1q/Projeto-FastFood-.NET-MAUI-App)** - Aplicativo que Simula um Pedido de Fast Food
-- 🧾 **[Automação PDF iTextSharp .NET](https://github.com/gustavohenr1q/Projeto-PDF-csharp-Automatizando-Processo-na-Empresa)** — Gerador de Relatórios Corporativos (Waldesa)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ- 🍔 **[Responsive App Fast Food .NET MAUI](https://github.com/gustavohenr1q/Projeto-FastFood-.NET-MAUI-App)** - Aplicativo que Simula um Pedido de Fast Food
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ- 🧾 **[Automação PDF iTextSharp .NET](https://github.com/gustavohenr1q/Projeto-PDF-csharp-Automatizando-Processo-na-Empresa)** — Gerador de Relatórios Corporativos (Waldesa)
 
 ---
 
