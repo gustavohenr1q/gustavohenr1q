@@ -1,52 +1,71 @@
-<div style="display: inline-block">
+<div align="center">
 
-# 💬*Olá, me chamo Gustavo Henrique*
-          
+<img 
+  src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" 
+  width="120"
+/>
+
+<h1><i>💬Olá, me chamo Gustavo Henrique</i></h1>
 
 </div>
+
+<div align="center"> 
           
-###  *Sobre mim*
+<h3><i>- Sobre mim -<i><h3>
+          
+</div>
+
+          
 **`Desenvolvedor Web`**
 
 
   *Atualmente colaboro na Empresa [Waldesa](https://waldesa.com.br) como Auxiliar de Suporte Técnico de Informática,  
-Com Foco em estudos e projetos em **C#**, **.NET**, **HTML** e **CSS**, criando soluções eficientes e bem estruturadas para web e desktop.
-Dei auxilio a projetos dentro da Empresa Com o [ Projeto-PDF-csharp-Automatizando-Processo-na-Empresa](https://github.com/gustavohenr1q/Projeto-PDF-csharp-Automatizando-Processo-na-Empresa).*
+Com Foco em estudos e projetos em **C#**, **.NET**, **HTML** e **CSS**, criando soluções eficientes e bem estruturadas para web e desktop.*
+Dei auxilio a projetos dentro da Empresa Com o [ Projeto-PDF-csharp-Automatizando-Processo-na-Empresa](https://github.com/gustavohenr1q/Projeto-PDF-csharp-Automatizando-Processo-na-Empresa).
+
+*Também estou fazendo um curso livre de um ano no [Senac](https://www.sp.senac.br/senac-tatuape-cel-luis-americano/cursos-livres/curso-de-assistente-de-desenvolvimento-de-aplicativos-computacionais) de (Assistente de Desenvolvimento de Aplicativos Computacionais).*
 
  <a href="https://www.linkedin.com/in/gustahenr1q/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ---
-### 📌 - *Projetos* -
+<div align="center">
+<h3><i>📌 - Projetos -<i><h3>
+</div>
+
 
 - 🍔 **[Responsive App Fast Food .NET MAUI](https://github.com/gustavohenr1q/Projeto-FastFood-.NET-MAUI-App)** - Aplicativo que Simula um Pedido de Fast Food
 - 🧾 **[Automação PDF iTextSharp .NET](https://github.com/gustavohenr1q/Projeto-PDF-csharp-Automatizando-Processo-na-Empresa)** — Gerador de Relatórios Corporativos (Waldesa)
 
 ---
 
-### 👨‍💻 - *Linguagens em Desenvolvimento* -
+<div align="center">
+<h3><i>👨‍💻 - Linguagens Desenvolvidas -<i><h3>
+</div>
   
 <div align="center">
 
- <img src="https://skillicons.dev/icons?i=html,css,cs,dotnet" />
+ <img src="https://skillicons.dev/icons?i=html,css,cs,dotnet,javascript" />
 
  </div>
  
 ---
 
-  ### 🛠 - *Ferramentas* -
+<div align="center">
+<h3><i>🛠 - Ferramentas -<i><h3>
+</div>
 
    <div align="center">
 
 
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
   
    </div>
 
 ---
+<div align="center">
+          
+<img alt="snake-id" src="https://github.com/user-attachments/assets/1327f0a3-1d4c-480b-ba29-9413ff07ac6c">
 
-<picture>
-
-<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
-</picture>
+</div>
 
 ---
