@@ -25,7 +25,7 @@
 *Estou cursando no [Senac](https://www.sp.senac.br/senac-tatuape-cel-luis-americano/cursos-livres/curso-de-assistente-de-desenvolvimento-de-aplicativos-computacionais) (Assistente de Desenvolvimento de Aplicativos Computacionais) livre de um ano.*
 
 <div align="center">
-<a href="https://www.linkedin.com/in/gustahenr1q/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/gustahenr1q/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" target="_blank"></a>
 </div>
 
 ---
