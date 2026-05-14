@@ -5,7 +5,7 @@
   width="120"
 />
 
-<h1><i>💬Olá, me chamo Gustavo Henrique</i></h1>
+<h1><i>💬Hello World, me chamo Gustavo Henrique</i></h1>
 
 </div>
 
@@ -41,9 +41,6 @@
 
 <div align="center">
 <h3><i>👨‍💻 - Linguagens Desenvolvidas -<i><h3>
-</div>
-  
-<div align="center">
 
  <img src="https://skillicons.dev/icons?i=html,css,cs,dotnet,javascript,bootstrap," />
 
