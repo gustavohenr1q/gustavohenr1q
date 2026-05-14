@@ -16,7 +16,7 @@
 </div>
 
 
-`Desenvolvedor Web`
+`Desenvolvedor Back-end & Front-end`
 
 
   *Atualmente colaboro na Empresa [Waldesa](https://waldesa.com.br) como Auxiliar de Suporte Técnico de Informática, com Foco em estudos e projetos em **C#**, **.NET**, **HTML** e **CSS**, criando soluções eficientes e bem estruturadas para web e desktop.*
