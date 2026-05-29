@@ -42,7 +42,7 @@
 <div align="center">
 <h3><i>👨‍💻 - Linguagens Desenvolvidas -<i><h3>
 
- <img src="https://skillicons.dev/icons?i=html,css,cs,dotnet,javascript,bootstrap," />
+ <img src="https://skillicons.dev/icons?i=html,css,cs,dotnet,javascript,bootstrap,nextjs" />
 
  </div>
  
